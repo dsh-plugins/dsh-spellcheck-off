@@ -1,0 +1,10 @@
+{
+  "name": "@dsh-plugin/dsh-spellcheck-off",
+  "latest": "0.0.1",
+  "publishedAt": "2026-11-13T17:28:21.093Z",
+  "dist": {
+    "tarball": "https://registry.npmjs.org/@dsh-plugin/dsh-spellcheck-off/-/dsh-spellcheck-off-0.0.1.tgz",
+    "integrity": "sha512-bb6uXUsDYbBNbuYLbvSmuWAcXOFKM7PBKv0gjFX1NFFEBU7zP0uKjEnnbv/UP7ueSEiLXq7JfCIzc1FHrsUeog==",
+    "unpackedSize": 11337
+  }
+}
