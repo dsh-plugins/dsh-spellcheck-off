@@ -1,0 +1,3 @@
+- insert:
+    - id: spellcheck-off
+      name: 'dsh-spellcheck-off'
