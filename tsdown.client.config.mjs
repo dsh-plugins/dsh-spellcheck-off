@@ -11,7 +11,7 @@ export default {
   inputOptions: { platform: 'browser' },
   outputOptions: {
     entryFileNames: 'client.js',
-    banner: 'window.__ModuleLoader__.load({ id: "dsh-spellcheck-off", factory: (require) => {',
+    banner: 'window.__ModuleLoader__.load({ id: "@dsh-plugin/dsh-spellcheck-off", factory: (require) => {',
     footer: 'return module.exports; } });',
     intro: 'var module = { exports: {} }; var exports = module.exports;',
     codeSplitting: false,

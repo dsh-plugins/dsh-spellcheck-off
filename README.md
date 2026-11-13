@@ -51,7 +51,7 @@ pnpm build
 2. 在输入框内键入拼写错误的英文单词（如 `recieve`），确认不再出现红色波浪线。
 3. 切换会话、打开新面板或触发动态挂载的输入框，确认新元素同样带有 `spellcheck="false"`。
 4. 于插件管理页禁用本插件并刷新页面，确认输入框的 `spellcheck` 属性恢复到安装前的状态（原本没有该属性的元素不再存在该属性），波浪线重新出现。
-5. 在 DevTools 控制台查看 `window.__DSH_BOOT__.entries`，确认包含 `dsh-spellcheck-off`；对应脚本请求返回 200 且响应正文为插件构建产物。
+5. 在 DevTools 控制台查看 `window.__DSH_BOOT__.entries`，确认包含 `@dsh-plugin/dsh-spellcheck-off`；对应脚本请求返回 200 且响应正文为插件构建产物。
 
 ## 性能与生命周期
 

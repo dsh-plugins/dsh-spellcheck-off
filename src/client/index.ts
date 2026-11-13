@@ -1,6 +1,6 @@
 import type { Context } from '@deepseek-ai/cordis'
 
-export const name = 'dsh-spellcheck-off'
+export const name = '@dsh-plugin/dsh-spellcheck-off'
 
 /** 本插件只操作 DOM，不依赖浏览器端 Cordis 服务。 */
 export const inject: string[] = []

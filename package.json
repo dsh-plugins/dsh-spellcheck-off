@@ -1,5 +1,5 @@
 {
-  "name": "dsh-spellcheck-off",
+  "name": "@dsh-plugin/dsh-spellcheck-off",
   "version": "0.1.0",
   "description": "禁用 DSH Web 界面所有文本输入框的浏览器拼写检查",
   "license": "MIT",
